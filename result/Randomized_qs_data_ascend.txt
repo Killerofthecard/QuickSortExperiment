@@ -1,0 +1,7 @@
+size=10 seed=42 scope=[0,100000000] time=0.00 cmp_nums=6
+size=100 seed=42 scope=[0,100000000] time=0.00 cmp_nums=68
+size=1000 seed=42 scope=[0,100000000] time=0.00 cmp_nums=665
+size=10000 seed=42 scope=[0,100000000] time=6.51 cmp_nums=6688
+size=100000 seed=42 scope=[0,100000000] time=157.67 cmp_nums=66725
+size=1000000 seed=42 scope=[0,100000000] time=1865.51 cmp_nums=666656
+size=10000000 seed=42 scope=[0,100000000] time=22689.94 cmp_nums=6666347

@@ -1,8 +1,14 @@
 **本项目是确定性快排与随机化快排算法的对比实验，具体实验参数设置如下：**
 
-![](C:\Users\Jerry\AppData\Roaming\marktext\images\2024-10-09-12-42-12-image.png)
+- 随机种子（seed）：42
 
+- 数组大小（size）：1e1, 1e2, ... , 1e7
 
+- 元素下界（lower bound）：0
+
+- 元素上界（upper bound）：1e8
+
+- 随机化算法重复执行次数：30
 
 ### 运行
 
